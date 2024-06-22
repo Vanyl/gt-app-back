@@ -1,0 +1,14 @@
+{
+  "name": "gt-app-back",
+  "version": "1.0.0",
+  "description": "Technical test for a compagny (back-end part)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vanyl",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
